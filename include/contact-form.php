@@ -11,7 +11,7 @@ $mail = new PHPMailer();
 $to = "contact@coreevoyage.com";
 
 // Add your reCaptcha Secret key if you wish to activate google reCaptcha security
-$recaptcha_secret_key = '6LcAZMsUAAAAACuxM0p_POTKqbygqzN4lck16U9Z'; 
+$recaptcha_secret_key = ''; 
 
 
 // Form Fields
