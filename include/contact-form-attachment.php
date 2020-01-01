@@ -9,7 +9,7 @@ $mail = new PHPMailer();
 
 
 // Enter your email address. If you need multiple email recipes simply add a comma: email@domain.com, email2@domain.com
-$to = "";
+$to = "contact@coreevoyage.com";
 
 // Add your reCaptcha Secret key if you wish to activate google reCaptcha security
 $recaptcha_secret_key = ''; 
